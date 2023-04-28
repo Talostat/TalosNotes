@@ -1,0 +1,13 @@
+article:
+#if no need to split
+[h1,h2][text] -> string  
+
+# need to split
+[h1,h2,h3][text1] -> split string1 
+[h1,h2,h3][text2] -> split string2
+
+
+
+
+
+
